@@ -1,5 +1,5 @@
 # toMorseCode
-Human Language to Morse Code
+Human Language to Morse Code Encryption
 
 # Output 
 Enter Encrypted Message: SOS
