@@ -5,3 +5,5 @@ Human Language to Morse Code
 Enter Encrypted Message: SOS
 
 Secret Morse Code: ... ___ ... 
+
+# Happy Encrption
